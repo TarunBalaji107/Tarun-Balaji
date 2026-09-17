@@ -1,0 +1,6 @@
+{
+  "name": "FastAPI & React Task Studio",
+  "description": "End-to-end full-stack productivity suite with Python FastAPI backend, SQLAlchemy ORM database, and React frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
